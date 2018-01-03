@@ -7,5 +7,7 @@ https://github.com/Developer-Y/awesome-courses#artificial-intelligence
 
 https://github.com/SherlockLiao/Roadmap-of-DL-and-ML
 
+https://www.youtube.com/user/nesoacademy/playlists
+
 
 
